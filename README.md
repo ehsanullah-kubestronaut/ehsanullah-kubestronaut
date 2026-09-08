@@ -2,7 +2,7 @@
 
 **Ehsan Ullah** is a **CNCF Kubestronaut** working with Linux, Kubernetes, AWS, Terraform, Docker, GitHub Actions, Python and Argo CD.
 
-I hold all five CNCF Kubernetes certifications — **KCNA, KCSA, CKA, CKAD and CKS** — which places me among a few hundred Kubestronauts worldwide. I build and automate cloud-native platforms, and I write about the road from a first `kubectl get pods` to production-grade GitOps.
+I hold all five CNCF Kubernetes certifications — **KCNA, KCSA, CKA, CKAD and CKS** — which places me among a few thousands Kubestronauts worldwide. I build and automate cloud-native platforms, and I write about the road from a first `kubectl get pods` to production-grade GitOps.
 
 ---
 
