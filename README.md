@@ -41,8 +41,8 @@ Verify my badges on [Credly](https://www.credly.com/users/ehsanullah).
 ## Connect
 
 - Portfolio: https://ehsanullah-kubestronaut.github.io
-- LinkedIn: https://www.linkedin.com/in/ehsanullah-kubestronaut/
-- X: https://x.com/MrSteelCodes
+- LinkedIn: https://www.linkedin.com/in/ehsanullahkhan/
+- X: https://x.com/ehsanullahk8s
 
 ---
 
